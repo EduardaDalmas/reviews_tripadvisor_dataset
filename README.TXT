@@ -1,4 +1,4 @@
-Avaliações de viagens do Leste Asiático
+*Avaliações de viagens do Leste Asiático*
 Com o crescimento do setor de turismo e a expansão das plataformas de review, como TripAdvisor e Google Reviews, as opiniões dos viajantes se tornaram fontes valiosas de informação para novos usuários e para as próprias empresas do setor. Esses feedbacks são fundamentais para que empresas ajustem seus serviços e para que os futuros clientes façam escolhas mais informadas. Entretanto, o grande volume de reviews torna a análise manual impraticável, exigindo o uso de técnicas automáticas para processar e classificar as informações de forma rápida e precisa.
 Neste projeto, apliquei técnicas de machine learning para analisar e classificar reviews de viagens com o intuito de automatizar a identificação do sentimento predominante. Ao categorizar as avaliações como positivas ou negativas, podemos fornecer uma visão geral sobre a satisfação dos clientes, destacando insights relevantes sobre os pontos fortes e fracos dos destinos ou serviços avaliados.
 O objetivo deste projeto é desenvolver um modelo de classificação de sentimento utilizando reviews de viagens disponíveis no dataset "Travel Reviews". A classificação automática permitirá identificar se o conteúdo da review é positivo ou negativo, ajudando empresas de turismo e usuários a entenderem rapidamente a percepção geral dos destinos e serviços.
@@ -12,13 +12,7 @@ Segundo as informações coletadas no site em que foi escolhido o dataset, este 
 Escolhi este dataset pelo meu interesse em viagens e por ter pouco conhecimento e experiência no assunto, me atrai bastante pelos dados disponibilizados e para conhecer melhor e pela experiência real de usuários sobre viagens e as coisas positivas e negativas que passaram.
 
 
-
-
-
-
-
-
-Sobre a análise exploratória:
+*Sobre a análise exploratória:*
 Neste estudo, foi realizada uma análise exploratória dos dados de feedback fornecidos pelos usuários em diversas categorias de interesse, como arte, clubes de dança, restaurantes e outros. A seguir, descrevo as análises realizadas e seus potenciais usos.
 1. Distribuição das Notas nas Categorias
 Para entender como as notas se distribuem nas diversas categorias avaliadas, foi gerado um histograma para cada categoria. Essa visualização permite identificar se as avaliações tendem a ser mais altas ou mais baixas, o que pode indicar a satisfação geral dos usuários em diferentes áreas. Por exemplo, se uma categoria como "feedback sobre galerias de arte" tiver uma distribuição concentrada em notas altas, isso sugere uma aceitação positiva, enquanto uma distribuição mais dispersa ou concentrada em notas baixas pode indicar áreas que precisam de melhorias. Essa análise é útil para priorizar áreas de investimento ou intervenção, além de ajudar na compreensão das preferências do público.
@@ -36,121 +30,9 @@ Utilidade das Análises
 Essas análises têm várias aplicações práticas, especialmente para empresas ou organizações que desejam entender o comportamento e as preferências de seus usuários. Ao identificar padrões de avaliação, correlações entre categorias e segmentos de usuários com preferências semelhantes, as empresas podem tomar decisões informadas sobre como melhorar seus serviços, segmentar campanhas de marketing de maneira mais eficaz e otimizar a alocação de recursos.
 Além disso, a detecção de outliers e padrões de dispersão pode ajudar a identificar áreas críticas que exigem ajustes ou mais atenção, enquanto o clustering pode fornecer insights valiosos sobre como agrupar usuários com base em seu comportamento e preferências. Com essas informações, é possível melhorar a experiência do usuário, personalizar ofertas e promover a fidelização do cliente.
 
-
-
-
-
-
-
-
-
-Sobre o que se refere cada coluna:
-Category 1
-
-
-
-
-Average user feedback on art galleries
-
-
-
-
-Category 2
-
-
-
-
-Average user feedback on dance clubs
-
-
-
-
-Category 3
-
-
-
-
-Average user feedback on juice bars
-
-
-
-
-Category 4
-
-
-
-
-Average user feedback on restaurants
-
-
-
-
-Category 5
-
-
-
-
-Average user feedback on museums
-
-
-
-
-Category 6
-
-
-
-
-Average user feedback on resorts
-
-
-
-
-Category 7
-
-
-
-
-Average user feedback on parks/picnic spots
-
-
-
-
-Category 8
-
-
-
-
-Average user feedback on beaches
-
-
-
-
-Category 9
-
-
-
-
-Average user feedback on theaters
-
-
-
-
-Category 10
-
-
-
-
-Average user feedback on religious institutions
-
-
-
-
-
-
-
-
-
-Link dataset: https://archive.ics.uci.edu/dataset/484/travel+reviews
+Link Apresentação: https://prezi.com/view/X03YGknzzCFJwhunBTUV/
+Link Github: https://github.com/EduardaDalmas/reviews_tripadvisor_dataset
+Link Dataset: https://archive.ics.uci.edu/dataset/484/travel+reviews
 Link Colab: https://colab.research.google.com/drive/19k3PNhubpMBtZS7-qoskZX5CkedKhOuJ?usp=sharing
 
 
