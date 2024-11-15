@@ -34,7 +34,7 @@ Link Apresentação: https://prezi.com/view/X03YGknzzCFJwhunBTUV/
 Link Github: https://github.com/EduardaDalmas/reviews_tripadvisor_dataset
 Link Dataset: https://archive.ics.uci.edu/dataset/484/travel+reviews
 Link Colab: https://colab.research.google.com/drive/19k3PNhubpMBtZS7-qoskZX5CkedKhOuJ?usp=sharing
-
+Link Doc: https://docs.google.com/document/d/1sowWj8OlBk3YQNPEqYGToXxMoIBFpVpjXZfhpPvxzFM/edit?usp=sharing
 
 
 
